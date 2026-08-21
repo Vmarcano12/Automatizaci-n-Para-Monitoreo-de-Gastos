@@ -1,0 +1,18 @@
+reporte - Ver el reporte diario actual
+graficas_mes_actual - Graficas Mes Actual
+semana1 - Ver reporte de la semana 1
+semana2 - Ver reporte de la semana 2
+semana3 - Ver reporte de la semana 3
+semana4 - Ver reporte de la semana 4
+mes_1 - 01.- INFORME MENSUAL DE GASTOS - ENERO
+mes_2 - 02.- INFORME MENSUAL DE GASTOS - FEBRERO
+mes_3 - 03.- INFORME MENSUAL DE GASTOS - MARZO
+mes_4 - 04.- INFORME MENSUAL DE GASTOS - ABRIL
+mes_5 - 05.- INFORME MENSUAL DE GASTOS - MAYO
+mes_6 - 06.- INFORME MENSUAL DE GASTOS - JUNIO
+mes_7 - 07.- INFORME MENSUAL DE GASTOS - JULIO
+mes_8 - 08.- INFORME MENSUAL DE GASTOS - AGOSTO
+mes_9 - 09.- INFORME MENSUAL DE GASTOS - SEPTIEMBRE
+mes_10 - 10.- INFORME MENSUAL DE GASTOS - OCTUBRE
+mes_11 - 11.- INFORME MENSUAL DE GASTOS - NOVIEMBRE
+mes_12 - 12.- INFORME MENSUAL DE GASTOS - DICIEMBRE
